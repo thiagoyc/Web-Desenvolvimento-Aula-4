@@ -1,0 +1,16 @@
+{
+  "name": "aula4",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Thiago Couto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "type": 
+    "module"
+}
